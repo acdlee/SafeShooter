@@ -6,7 +6,7 @@ class GameSettings():
 	"""GameSettings for SafeShooter"""
 	def __init__(self):
 		#Window settings/tick rate/background image
-		self.width = 1000
+		self.width = 1049
 		self.height = 600
 		self.dimensions = (self.width, self.height)
 		self.clock_tick_rate = 30
